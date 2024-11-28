@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+########################################################
+
+aienv
+keys/gemini_key.txt
+
+########################################################
+
 # Distribution / packaging
 .Python
 build/

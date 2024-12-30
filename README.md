@@ -105,5 +105,5 @@ To run this project locally, install the following:
 
 This project demonstrates how AI can transform lives by assisting visually impaired individuals with advanced capabilities. By integrating state-of-the-art AI technologies, it provides a practical solution for real-world challenges.  
 
-**Video demonstration:** [Project Demo Video](#) 
+**Video demonstration:** [Project Demo Video](https://github.com/Angad143/Building-AI-Powered-Solution-for-Assisting-Visually-Impaired-Individuals/tree/main/sample%20projects%20demo) 
 

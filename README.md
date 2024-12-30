@@ -104,3 +104,6 @@ To run this project locally, install the following:
 ## Conclusion  
 
 This project demonstrates how AI can transform lives by assisting visually impaired individuals with advanced capabilities. By integrating state-of-the-art AI technologies, it provides a practical solution for real-world challenges.  
+
+**Video demonstration:** [Project Demo Video](#) 
+
